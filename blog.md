@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Francesco Tomarchio | Blog
 pagination:
   enabled: true
 ---
